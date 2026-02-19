@@ -1,4 +1,5 @@
 <?php
+    echo "<h2> Inteiro </h2>";
     $x =10;
 
     echo "Com aspas duplas:" . " $x" . "<br/>";
@@ -9,7 +10,7 @@
     print_r($x);
     echo "<br/>". "<br/>";
     
-
+    echo "<h2> Boleano </h2>";
     $y =false;
 
     echo "Com aspas duplas:" . " $y" . "<br/>";
